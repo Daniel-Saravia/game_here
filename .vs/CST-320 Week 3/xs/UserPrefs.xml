@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{623C940E-B911-3406-D9E7-32FC788CCEBA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/websocketReceiver.cs">
+    <Files>
+      <File FileName="Assets/Scripts/websocketReceiver.cs" Line="66" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CST-320 Week 3" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ca8c0e12-a4a3-4229-bfde-f7bf8dae5e73" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
